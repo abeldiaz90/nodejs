@@ -1,2 +1,2 @@
 const math=require("./math")
-console.log(math.dividir(20,5))
+console.log(math.dividir(50,5))
